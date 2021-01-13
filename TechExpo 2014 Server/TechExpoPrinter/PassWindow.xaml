@@ -1,0 +1,46 @@
+﻿<Window x:Class="TechExpoPrinter.PassWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="PassWindow"
+        Width="800"
+        Height="1200"
+        Background="Transparent"
+        WindowStyle="None" WindowStartupLocation="Manual">
+    <Grid Name="_gridPass">
+        <Image Source="Images/REGISTRATIONtag_v2.jpg" />
+        <Grid Height="400" Width="675" Margin="0,650,0,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height=".33*" />
+                <RowDefinition Height=".33*" />
+                <RowDefinition Height=".33*" />
+            </Grid.RowDefinitions>
+            <TextBlock Name="_textBlockName"
+                       Grid.Row="0"
+                       Margin="0,0,0,30"
+                       FontFamily="Roboto"
+                       FontSize="80"
+                       FontWeight="Bold"
+                       Foreground="White"
+                       Text="Tony"
+                       TextAlignment="Center"
+                       TextWrapping="Wrap" />
+            <TextBlock Name="_textBlockCompany"
+                       Grid.Row="1"
+                       Margin="0,0,0,30"
+                       FontFamily="Roboto"
+                       FontSize="35"
+                       Foreground="White"
+                       Text="Bluewater Technologies"
+                       TextAlignment="Center"
+                       TextWrapping="Wrap" />
+            <TextBlock Name="_textBlockJobTitle"
+                       Grid.Row="2"
+                       FontFamily="Roboto"
+                       FontSize="35"
+                       Foreground="White"
+                       Text="DemiGod"
+                       TextAlignment="Center"
+                       TextWrapping="Wrap" />
+        </Grid>
+    </Grid>
+</Window>

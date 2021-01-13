@@ -1,0 +1,42 @@
+PointsValue,ContactFirstName,ContactLastName,ContactCompany,ContactEmailAddress,ContactPhoneNumber,LocationName
+100,Bob,Christopher,Chrisite Digital,robert.christopher@christiedigital.com,847-698-0546,Booth 1
+100,Emil,Babineau,ScanSource,emil.babineau@scansource.com,864-286-4756,Booth 10
+100,George,Vlach,Sharp,vlachg@sharpsec.com,708-927-6011,Booth 11
+100,Timur,Ruban,Evogence,truban@evogence.com,860-953-0240 x101,Booth 12
+100,Patrick,Hasbrook,AMX,patrick.hasbrook@amx.com,949-838-4854,Booth 13
+100,Avaya,David,Margolin,davidm@avaya.com,919-433-7020,Booth 14
+100,David ,Overberg,WorkSquared,DOverberg@worksquared.com,248-313-2073,Booth 15
+100,Jay,Barth,Starin,jaybarth@tarin.biz,219-929-4127,Booth 16
+100,Barco, Ken,Silvestri,Ken.Silvestri@Barco.com,305-542-0560,Booth 17
+100,Joe,Leahy,LightSource,joe@lightsourceinc.com,248-685-0102,Booth 18
+100,Dave,McDiarmid,DMJ Technologies,dmcdiarmid@dmjtechnologies.com,513-770-4123,Booth 19
+100,Adam,Salinas,LG,adam.salinas@lge.com,847-336-6604,Booth 2
+100,Andre ,White,DaLite,andre.white@milestone.com,224-217-0303,Booth 20
+100,Thomas,Novotny,Peerless-AV,tnovotny@peerless-av.com,630-701-5350,Booth 21
+100,Mike,Fensil,Leon Speakers,mfencil@Leonspeakers.com,734-926-4086,Booth 22
+100,Beth,Hild,Samsung,bhild@sea.samsung.com,630-470-8491,Booth 23
+100,John,Lamberson,BiAmp Systems,john.lamberson@biamp.com,630-432-9907,Booth 24
+100,Bill,Fons,Planar,Bill.Fons@planar.com,248-245-2436,Booth 25
+100,Cody,Kleven,Haivision,kckleven@haivision.com,,Booth 26
+100,John,Thomas,Visitec,thomas@visitec.com,630-797-7132,Booth 27
+100,Gary,Bush,Crestron,gbush@crestron.com,847-631-2746,Booth 28
+100,Nathan,Remmes,NanoLumens,nremmes@nanolumens.com,678-974-1737,Booth 29
+100,Nick,Buscemi,Liberty AV Solutions,Nbuscemi@libav.com,734-322-3069,Booth 3
+100,Nick,Iorfida,NEC,diorfida@necdisplay.com,630-553-9082,Booth 30
+100,Shane,Roma,Extron Electronics,sroma@extron.com,714-491-1500 x6220,Booth 31
+100,Andy ,Combs,Harman Pro Audio,andy@iavsales.com,248-623-6114,Booth 4
+100,John ,Calcagno,LED3,john@led3.us,351-684-8040,Booth 5
+100,Marvin,Sanders,PixelFire,marvin.sanders@pixelfire.net,425-917-1400,Booth 6
+100,Scott,Schoeneberger,Bluewater Technologies,nbilling@bluewt.com,248-356-4399,Booth 7
+100,Bob,Newhuis,Middle Atlantic,Bnewhuis@middleatlantic.com,393-839-1911 x4222,Booth 8
+100,Brian,Kunz,Draper,bkunz@DraperInc.com,765-856-1270,Booth 9
+100,Lee,Dodson,"Arrive Systems, Inc.",,,"Tech Talk - Arrive Systems, Inc."
+100,Jason ,Moulden,Crestron,,,Tech Talk - Crestron
+100,Timur,Ruban,Evogence,truban@evogence.com,860-953-0240 x101,Tech Talk - Evogence
+100,Minson,Chen,Samsung,,,Tech Talk - Samsung
+100,Bill,Mullin,Starin,,,Tech Talk - Starin
+100,Kevin ,Gillespie,Bluewater Technologies,kgillespie@bluewt.com,248-356-4399,Tech Talk - BlueWater
+100,Kevin ,Gillespie,Bluewater Technologies,kgillespie@bluewt.com,248-356-4399,Innovation Forum
+100,Josh,Keys,Bluewater Technologies,Jkeys@bluewt.com,248-356-4399,Space Face
+100,Josh,Keys,Bluewater Technologies,Jkeys@bluewt.com,248-356-4399,Total Alien Blast
+0,Josh,Keys,Bluewater Technologies,Jkeys@bluewt.com,248-356-4399,Vending
